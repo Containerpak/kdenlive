@@ -7,3 +7,4 @@ RUN apt-get update && \
     cpak-clean-junk
 
 COPY org.kde.kdenlive.desktop /usr/share/applications/org.kde.kdenlive.desktop
+COPY icon.png /usr/share/icons/hicolor/128x128/apps/kdenlive.png
