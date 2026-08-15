@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Kdenlive
+Comment=Edit video with a multi-track timeline and professional tools.
+Exec=kdenlive %F
+Icon=kdenlive
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;
