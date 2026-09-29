@@ -4,7 +4,7 @@
   "name": "Kdenlive",
   "description": "Edit video with a multi-track timeline and professional tools.",
   "version": "25.12.3",
-  "image": "ghcr.io/containerpak/kdenlive@sha256:ef821e54fc10d8e26e41e3be445e299a8012110af60ca25d2127f941b90d17ae",
+  "image": "ghcr.io/containerpak/kdenlive@sha256:2f46051af85d1a1f29e4226eb878a15cb376eb3a1213e83956504cbe37983f86",
   "binaries": [
     "/usr/bin/kdenlive"
   ],
